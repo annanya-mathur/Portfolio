@@ -39,6 +39,9 @@ ol, ul {
 	  font-size: 12pt;
 	font-weight: 500;
 }
+ .d{
+	 font-weight:500;
+}
 blockquote, q {
 	quotes: none;
 }
